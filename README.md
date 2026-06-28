@@ -4,16 +4,12 @@ An AI-powered incident management assistant built with **Snowflake Cortex Analys
 
 The agent understands the incident management data model and answers business questions in natural English. It translates questions into governed SQL, runs the query in Snowflake, and returns clear, data-backed results—without requiring users to write SQL.
 
-<!-- <p>
+<p>
   <img src="./docs/incident_management.jpg"
        alt="Incident Management"
-       width="280">
-</p> -->
-<p>
-  <img src="./docs/cortex_analyst.png"
-       alt="Cortex Analyst"
-       width="280">
+       >
 </p>
+
 ## Cortex Analyst — Natural Language to SQL
 
 **Services:** Semantic View + Cortex Agent (`cortex_analyst_text_to_sql` tool)
