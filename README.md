@@ -7,7 +7,7 @@ The agent understands the incident management data model and answers business qu
 <p align="center">
   <img src="./docs/incident_management.jpg"
        alt="Incident Management"
-       width="420" />
+       width="220" />
 </p>
 
 ## Cortex Analyst — Natural Language to SQL
