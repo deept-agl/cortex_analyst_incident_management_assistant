@@ -12,15 +12,11 @@ The agent understands the incident management data model and answers business qu
 <p align="center">
   <img src="./docs/incident_management.jpg"
        alt="Incident Management"
-       width="280"
-       height="220"
-       style="object-fit: contain; vertical-align: middle;" />
+       height="180" />
 
   <img src="./docs/cortex_analyst.png"
        alt="Snowflake Cortex Analyst"
-       width="280"
-       height="220"
-       style="object-fit: contain; vertical-align: middle;" />
+       height="180" />
 </p>
 
 ## Cortex Analyst — Natural Language to SQL
