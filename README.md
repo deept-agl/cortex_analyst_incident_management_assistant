@@ -4,8 +4,10 @@ An AI-powered incident management assistant built with **Snowflake Cortex Analys
 
 The agent understands the incident management data model and answers business questions in natural English. It translates questions into governed SQL, runs the query in Snowflake, and returns clear, data-backed results—without requiring users to write SQL.
 
+---
+
 <p align="center">
-  <img src="docs/incident_management.png" alt="Incident Management Benefits" width="420" />
+  <img src="docs/incident_management.jpg" alt="Incident Management Benefits" width="420" />
 </p>
 
 ---
